@@ -1,6 +1,6 @@
 function event_say(e)
 	if e.message:findi("Hail") then
-		e.self:Emote("mumbles about some calculations, counting on her fingers. 'I keep going over it in my head. The numbers all add up, but I'm still amazed this ship floats!'");
+		e.self:Emote("mumbles about some calculations, counting on her fingers. 'I kept going over it in my head. The numbers all add up, but I'm still amazed this ship floats!'");
 	end
 end
 
